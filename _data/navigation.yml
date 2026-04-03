@@ -3,8 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Notes"
+    url: "/#-notes"
+
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Notes"
-    url: "/#-notes"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
