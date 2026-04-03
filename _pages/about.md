@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhiqiao Wang, an undergraduate student majoring in Computer Science and Technology at Guangdong University of Foreign Studies.
+I am Zhiqiao Wang(王祉乔), an undergraduate student majoring in Computer Science and Technology at Guangdong University of Foreign Studies.
 
 My research interests include video understanding, visual perception, and visual generation.
 
