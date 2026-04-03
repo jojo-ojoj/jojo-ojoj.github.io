@@ -24,13 +24,13 @@ My research interests include video understanding, visual perception, and visual
 # 📝 Notes
 <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 1em 0; justify-content: flex-start;">
   <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note1.jpg" alt="Handwritten Note 1" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/notes/note1.jpg" alt="Handwritten Note 1" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note2.jpg" alt="Handwritten Note 2" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/notes/note2.jpg" alt="Handwritten Note 2" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note3.jpg" alt="Handwritten Note 3" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/notes/note3.jpg" alt="Handwritten Note 3" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
   <!-- 如需更多笔记，直接复制上面的 div 块即可 -->
 </div>

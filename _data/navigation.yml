@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Notes"
-    url: "/#notes"
+    url: "/#-notes"
 
   - title: "Solutions"
-    url: "/#solutions"
+    url: "/#-solutions"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards" #为什么会跳转到新页面
+    url: "/#-honors-and-awards" #为什么会跳转到新页面
