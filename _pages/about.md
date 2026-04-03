@@ -45,9 +45,9 @@ My research interests include video understanding, visual perception, and visual
 </div>
 
 # 💬 Solutions
-- Problem Solution: NowCoder Junior League 111 E - Construct Rectangle [link](sslocal://flow/file_open?url=https%3A%2F%2Fwww.cnblogs.com%2Fjojo-ojoj%2Fp%2F18760830&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- Problem Solution: Luogu P1363 Illusion Maze [link](sslocal://flow/file_open?url=https%3A%2F%2Fwww.cnblogs.com%2Fjojo-ojoj%2Fp%2F18740832&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- Problem Solution: AtCoder ABC394 E - Palindromic Shortest Path [link](sslocal://flow/file_open?url=https%3A%2F%2Fwww.cnblogs.com%2Fjojo-ojoj%2Fp%2F18736274&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- Problem Solution: NowCoder Junior League 111 E - Construct Rectangle [link](https://www.cnblogs.com/jojo-ojoj/p/18760830)
+- Problem Solution: Luogu P1363 Illusion Maze [link](https://www.cnblogs.com/jojo-ojoj/p/18740832)
+- Problem Solution: AtCoder ABC394 E - Palindromic Shortest Path [link](https://www.cnblogs.com/jojo-ojoj/p/18736274)
 
 # 📖 Educations
 - *2023.09 - 2027.06 (Expected)*, B.Eng. in Computer Science and Technology, Guangdong University of Foreign Studies
