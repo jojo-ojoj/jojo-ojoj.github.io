@@ -6,8 +6,11 @@ main:
   - title: "Notes"
     url: "/#notes"
 
+  - title: "Solutions"
+    url: "/#solutions"
+
   - title: "Educations"
     url: "/#educations"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#honors-and-awards" #为什么会跳转到新页面
