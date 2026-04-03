@@ -32,9 +32,7 @@ My research interests include video understanding, visual perception, and visual
   <div style="width: 48%; max-width: 150px;">
     <img src="/images/notes/note3.jpg" alt="Handwritten Note 3" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="width: 48%; max-width: 150px;">
-    <img src="/images/notes/note4.jpg" alt="Handwritten Note 4" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </div>
+
   <div style="width: 48%; max-width: 150px;">
     <img src="/images/notes/note5.jpg" alt="Handwritten Note 5" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
