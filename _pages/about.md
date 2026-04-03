@@ -22,29 +22,28 @@ I am Zhiqiao Wang(王祉乔), an undergraduate student majoring in Computer Scie
 My research interests include video understanding, visual perception, and visual generation.
 
 # 📝 Notes
-<div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 1em 0; justify-content: flex-start;">
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note1.jpg" alt="Handwritten Note 1" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1em 0; justify-content: flex-start;">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note1.jpg" alt="Handwritten Note 1" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note2.jpg" alt="Handwritten Note 2" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note2.jpg" alt="Handwritten Note 2" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note3.jpg" alt="Handwritten Note 3" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note3.jpg" alt="Handwritten Note 3" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note4.jpg" alt="Handwritten Note 4" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note4.jpg" alt="Handwritten Note 4" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note5.jpg" alt="Handwritten Note 5" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note5.jpg" alt="Handwritten Note 5" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note6.jpg" alt="Handwritten Note 6" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note6.jpg" alt="Handwritten Note 6" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <div style="flex: 1 1 280px; max-width: 320px;">
-    <img src="/images/notes/note7.jpg" alt="Handwritten Note 7" style="width:50%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <div style="width: 48%; max-width: 150px;">
+    <img src="/images/notes/note7.jpg" alt="Handwritten Note 7" style="width:100%; border-radius:6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
-  <!-- 如需更多笔记，直接复制上面的 div 块即可 -->
 </div>
 
 # 💬 Solutions
