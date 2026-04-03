@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Notes"
-    url: "/#-notes"
+    url: "/#notes"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"

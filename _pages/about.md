@@ -30,7 +30,7 @@ My research interests include video understanding, visual perception, and visual
 - *2023.09 - 2027.06 (Expected)*, B.Eng. in Computer Science and Technology, Guangdong University of Foreign Studies
 
 # ⭐️ Honors and Awards
--National Scholarship, 2025
--First Prize, Outstanding Student Scholarship, GDUFS, 2024–2025
--Bronze Medal, China Collegiate Programming Contest for Girls, 2025
--Bronze Medal, Guangdong Provincial Collegiate Programming Contest, 2025
+- National Scholarship, 2025
+- First Prize, Outstanding Student Scholarship, GDUFS, 2024–2025
+- Bronze Medal, China Collegiate Programming Contest for Girls, 2025
+- Bronze Medal, Guangdong Provincial Collegiate Programming Contest, 2025
